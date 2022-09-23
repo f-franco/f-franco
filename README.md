@@ -42,6 +42,7 @@
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" height="50" /></a>
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="50" /></a>
+<a href="https://www.tidyverse.org" target="_blank"><img style="margin: 10px" src="https://laurahbui.github.io/Modelling-Crime-Data-2021/Images/tidyverse-logo.png" alt="Tidyverse" height="50" /></a>
 
 </td><td valign="top" width="33%">
 
@@ -53,7 +54,7 @@
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" height="50" /></a>  
 <a href="https://ggplot2.tidyverse.org" target="_blank"><img style="margin: 10px" src="https://www.rstudio.com/wp-content/uploads/2014/04/ggplot2.png" alt="ggplot2" height="50" /></a>  
 </div>
 
@@ -91,6 +92,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12146743034&cover_image=true&theme=default" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
