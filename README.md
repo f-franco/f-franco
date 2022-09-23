@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skills  
 <table><tr><td valign="top" width="33%">
 
 ### Engineering  
@@ -63,7 +63,7 @@
 <br/>  
 
 
-## Connect with me  
+## Let's Connect  
 <div align="center">
 
 <a href="https://medium.com/@f-franco" target="_blank">
@@ -87,7 +87,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Recent Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
