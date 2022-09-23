@@ -30,7 +30,7 @@
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" height="50" /></a>  
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
-<a href="https://nifi.apache.org/" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/Apache_NiFi#/media/File:Apache-nifi-logo.svg" alt="NiFi" height="50" /></a>  
+<a href="https://nifi.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Apache-nifi-logo.svg" alt="NiFi" height="50" /></a>  
   
 </div>
 
