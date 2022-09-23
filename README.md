@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">Hey! My name is Fernando and I'm learning about data science🔬/engineering⚙/analytics📊 🤓</div>  
+### <div align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> My name is Fernando and I'm learning plenty about data: science🔬/engineering⚙/analytics📊 🤓</div>  
   
 
-- 🎓 I’m in the process of getting an MSc in Big Data at IE School of Science & Tech  
+- 🌱 I’m in the process of getting an MSc in Big Data at the IE School of Science & Technology  
   
 
-- 👀 I’m interested in real-world applications of ML, NLP, and CV  
+- 👯 I’m interested in collaborating on real-world applications of ML, NLP, and CV  
   
 
-- ⚡ Fun fact: Photography is my favorite hobby  
+- ⚡ In my free time I like to draw, play videogames or do some photography.  
   
 
 <br/>  
@@ -20,8 +20,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Engineering  
 <div align="center">  
@@ -67,17 +65,21 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/f-franco" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="https://medium.com/@f-franco" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ffb" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://github.com/f-franco" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.kaggle.com/ffrancob" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@f-franco" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<a href="https://instagram.com/philosophi.co" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
