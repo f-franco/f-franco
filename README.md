@@ -55,9 +55,13 @@
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" height="50" /></a>  
-<a href="https://ggplot2.tidyverse.org" target="_blank"><img style="margin: 10px" src="https://www.rstudio.com/wp-content/uploads/2014/04/ggplot2.png" alt="ggplot2" height="50" /></a>  
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" height="50" /></a>
+<a href="https://seaborn.pydata.org" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" alt="Seaborn" height="50" /></a>
+<a href="https://ggplot2.tidyverse.org" target="_blank"><img style="margin: 10px" src="https://www.rstudio.com/wp-content/uploads/2014/04/ggplot2.png" alt="ggplot2" height="50" /></a> 
+<a href="https://plotly.com" target="_blank"><img style="margin: 10px" src="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/Plotly__a0a015/Plotly-logo-01-square.png__95275.png" alt="Plotly" height="50" /></a>
+
 </div>
+
 
 </td></tr></table>  
 
