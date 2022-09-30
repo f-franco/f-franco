@@ -12,7 +12,7 @@
 - 👯 I’m interested in collaborating on real-world applications of ML, NLP, and CV  
   
 
-- ⚡ In my free time I like to draw, play video games or do some photography.  
+- ⚡ In my free time I like to draw, play video games or do some photography 
   
 
 <br/>  
