@@ -29,7 +29,8 @@
 #### Programming
 <div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" height="30" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/r_programming-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" height="30" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/r_programming-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" height="30" /></a> 
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git" height="30" /></a> 
 </div>
 
 #### Analytics  
