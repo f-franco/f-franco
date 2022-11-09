@@ -22,13 +22,13 @@
 <table><tr><td valign="top" width="33%">
 
 ### Engineering  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
-<a href="https://nifi.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Apache-nifi-logo.svg" alt="NiFi" height="50" /></a>  
+<div align="left">  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" height="30" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" height="30" /></a>  
+<a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white" alt="Spark" height="30" /></a>  
+<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white" alt="Kafka" height="30" /></a>  
+<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/hadoop-yellow?style=for-the-badge&logo=ApacheHadoop&logoColor=white" alt="Hadoop" height="30" /></a>  
+<a href="https://nifi.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/NiFi-gray?style=for-the-badge&logo=Apache&logoColor=white" alt="NiFi" height="30" /></a>  
   
 </div>
 
@@ -38,27 +38,28 @@
 
 ### Science  
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://numpy.org" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" height="50" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50" /></a>
-<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="50" /></a>
-<a href="https://www.tidyverse.org" target="_blank"><img style="margin: 10px" src="https://laurahbui.github.io/Modelling-Crime-Data-2021/Images/tidyverse-logo.png" alt="Tidyverse" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" height="30" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/r_programming-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" height="30" /></a>  
+<a href="https://numpy.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="Numpy" height="30" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="30" /></a>
+<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="30" /></a>
+<a href="https://www.tidyverse.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=Tidyverse&logoColor=white" alt="Tidyverse" height="30" /></a>
 
 </td><td valign="top" width="33%">
 
 
 
 ### Analytics  
-<div align="center">  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" height="50" /></a>
-<a href="https://seaborn.pydata.org" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" alt="Seaborn" height="50" /></a>
-<a href="https://ggplot2.tidyverse.org" target="_blank"><img style="margin: 10px" src="https://www.rstudio.com/wp-content/uploads/2014/04/ggplot2.png" alt="ggplot2" height="50" /></a> 
-<a href="https://plotly.com" target="_blank"><img style="margin: 10px" src="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/Plotly__a0a015/Plotly-logo-01-square.png__95275.png" alt="Plotly" height="50" /></a>
+<div align="right">  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white" alt="Power Bi" height="30" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" height="30" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="Photoshop" height="30" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white" alt="Illustrator" height="30" /></a>  
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="matplotlib" height="30" /></a>
+<a href="https://seaborn.pydata.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Seaborn" height="30" /></a>
+<a href="https://ggplot2.tidyverse.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/ggplot-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="ggplot2" height="30" /></a> 
+<a href="https://plotly.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white" alt="Plotly" height="30" /></a>
+<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" height="30" /></a>
 
 </div>
 
