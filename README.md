@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> My name is Fernando and I'm learning plenty about data: science 🔬/engineering ⚙/analytics 📊 🤓</div>  
+### <div align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> My name is Fernando and I'm learning plenty about data: science 🔬 /engineering ⚙ /analytics 📊 </div>  
   
 
 - 🌱 I’m in the process of getting an MSc in Big Data at the IE School of Science & Technology  
@@ -67,6 +67,12 @@
 
 <br/>  
 
+## Recent Posts  
+<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:END -->  
+
+<br/> 
+
 ## Let's Connect  
 <div align="center">
 
@@ -89,14 +95,7 @@
   
 
 <br/>  
-
-
-## Recent Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
+ 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12146743034&cover_image=true&theme=default" /></div>
 <br />
