@@ -19,55 +19,53 @@
 
 
 ## Skills  
-<table><tr><td valign="top" width="33%">
 
-### Engineering  
+#### Databases  
 <div align="left">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" height="30" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" height="30" /></a>  
+</div>
+
+#### Programming
+<div align="left">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" height="30" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/r_programming-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" height="30" /></a>  
+</div>
+
+#### Analytics  
+<div align="left">  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white" alt="Power Bi" height="30" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" height="30" /></a>  
+<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" height="30" /></a>
+</div>
+
+#### Architecture  
+<div align="left">  
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white" alt="Spark" height="30" /></a>  
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white" alt="Kafka" height="30" /></a>  
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/hadoop-yellow?style=for-the-badge&logo=ApacheHadoop&logoColor=white" alt="Hadoop" height="30" /></a>  
 <a href="https://nifi.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/NiFi-gray?style=for-the-badge&logo=Apache&logoColor=white" alt="NiFi" height="30" /></a>  
-  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Science  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" height="30" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/r_programming-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" height="30" /></a>  
+#### Science & Modeling  
+<div align="left">  
 <a href="https://numpy.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="Numpy" height="30" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="30" /></a>
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="30" /></a>
 <a href="https://www.tidyverse.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=Tidyverse&logoColor=white" alt="Tidyverse" height="30" /></a>
+</div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Analytics  
-<div align="right">  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white" alt="Power Bi" height="30" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" height="30" /></a>  
+#### Visualization  
+<div align="left">  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="Photoshop" height="30" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white" alt="Illustrator" height="30" /></a>  
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="matplotlib" height="30" /></a>
 <a href="https://seaborn.pydata.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Seaborn" height="30" /></a>
 <a href="https://ggplot2.tidyverse.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/ggplot-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="ggplot2" height="30" /></a> 
 <a href="https://plotly.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white" alt="Plotly" height="30" /></a>
-<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" height="30" /></a>
-
 </div>
 
-
-</td></tr></table>  
-
 <br/>  
-
 
 ## Let's Connect  
 <div align="center">
