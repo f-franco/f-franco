@@ -66,6 +66,11 @@
 <a href="https://plotly.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white" alt="Plotly" height="30" /></a>
 </div>
 
+#### Others  
+<div align="left">  
+<a><img style="margin: 10px" src="https://img.shields.io/badge/web_scraping-black?style=for-the-badge" alt="Web Scraping" height="30" /></a>  
+</div>
+
 <br/>  
 
 ## Recent Posts  
