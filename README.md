@@ -33,19 +33,19 @@
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git" height="30" /></a> 
 </div>
 
-#### Analytics  
-<div align="left">  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white" alt="Power Bi" height="30" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" height="30" /></a>  
-<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" height="30" /></a>
-</div>
-
 #### Architecture  
 <div align="left">  
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white" alt="Spark" height="30" /></a>  
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white" alt="Kafka" height="30" /></a>  
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/hadoop-yellow?style=for-the-badge&logo=ApacheHadoop&logoColor=white" alt="Hadoop" height="30" /></a>  
 <a href="https://nifi.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/NiFi-gray?style=for-the-badge&logo=Apache&logoColor=white" alt="NiFi" height="30" /></a>  
+</div>
+
+#### Analytics  
+<div align="left">  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white" alt="Power Bi" height="30" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" height="30" /></a>  
+<a href="https://analytics.google.com/analytics/web/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=GoogleAnalytics&logoColor=white" alt="Google Analytics" height="30" /></a>
 </div>
 
 #### Science & Modeling  
@@ -68,6 +68,7 @@
 
 #### Others  
 <div align="left">  
+<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" height="30" /></a>
 <a><img style="margin: 10px" src="https://img.shields.io/badge/web_scraping-black?style=for-the-badge" alt="Web Scraping" height="30" /></a>  
 </div>
 
