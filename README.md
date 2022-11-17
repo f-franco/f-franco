@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> My name is Fernando and I'm learning plenty about data: science 🔬 /engineering ⚙ /analytics 📊 </div>  
+### <div align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> My name is Fernando and I'm a full-stack data specialist in the making: science 🔬 | engineering ⚙ | analytics 📊 </div>  
   
 
 - 🌱 I’m in the process of getting an MSc in Big Data at the IE School of Science & Technology  
