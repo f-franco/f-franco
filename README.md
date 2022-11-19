@@ -5,10 +5,10 @@
 
 ### <div align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> My name is Fernando and I'm a full-stack data specialist in the making. <br/> <br/> ANALYTICS 📊 | ENGINEERING ⚙ | SCIENCE 🔬  </div>  
   
+<br/>
 
 - 🌱 I’m in the process of getting an MSc in Big Data at the IE School of Science & Technology.  
-  
-<br/>
+
 
 - 👯 I’m interested in collaborating on real-world applications of ML, NLP, and CV.  
   
