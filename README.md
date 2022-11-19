@@ -75,7 +75,7 @@
 
 <br/>  
 
-## Recent Stuff  
+## Latest Articles  
 <!-- BLOG-POST-LIST:START -->
 - [COVID-19 | Underreported Deaths](https://f-franco.medium.com/covid-19-underreported-deaths-b4bac8800ddc?source=rss-42d3ce47af92------2)
 - [COVID-19 | The Measure of Hope](https://f-franco.medium.com/covid-19-the-measure-of-hope-73b2242f56c?source=rss-42d3ce47af92------2)
