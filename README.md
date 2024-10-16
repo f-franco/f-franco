@@ -77,11 +77,11 @@
 
 ## Latest Articles  
 <!-- BLOG-POST-LIST:START -->
+- [From Playtime to Primetime: How LEGO’s Adult Strategy is Reshaping the Toy Industry](https://f-franco.medium.com/from-playtime-to-primetime-how-legos-adult-strategy-is-reshaping-the-toy-industry-57b40dddb7dc?source=rss-42d3ce47af92------2)
 - [COVID-19 | Underreported Deaths](https://f-franco.medium.com/covid-19-underreported-deaths-b4bac8800ddc?source=rss-42d3ce47af92------2)
 - [COVID-19 | The Measure of Hope](https://f-franco.medium.com/covid-19-the-measure-of-hope-73b2242f56c?source=rss-42d3ce47af92------2)
 - [COVID-19 | La Letalidad y Los Decesos](https://f-franco.medium.com/covid-19-la-letalidad-y-los-decesos-8bd7e9164975?source=rss-42d3ce47af92------2)
 - [COVID-19 | La Positividad y Las Pruebas](https://f-franco.medium.com/covid-19-la-positividad-y-las-pruebas-91100f7d6beb?source=rss-42d3ce47af92------2)
-- [COVID-19 | Los Decesos y El Subregistro](https://f-franco.medium.com/covid-19-los-decesos-y-el-subregistro-c0a84a06541c?source=rss-42d3ce47af92------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/> 
