@@ -77,11 +77,11 @@
 
 ## Latest Articles  
 <!-- BLOG-POST-LIST:START -->
+- [Bubble Foundations: When Market Excess Builds the Future](https://f-franco.medium.com/bubble-foundations-when-market-excess-builds-the-future-0d31dde71bcc?source=rss-42d3ce47af92------2)
 - [FROM CONSENSUS TO CONTROVERSY: THE UNRAVELING OF THE ESG MOVEMENT](https://f-franco.medium.com/from-consensus-to-controversy-the-unraveling-of-the-esg-movement-fc248205e40c?source=rss-42d3ce47af92------2)
 - [From Playtime to Primetime: How LEGO’s Adult Strategy is Reshaping the Toy Industry](https://f-franco.medium.com/from-playtime-to-primetime-how-legos-adult-strategy-is-reshaping-the-toy-industry-57b40dddb7dc?source=rss-42d3ce47af92------2)
 - [COVID-19 | Underreported Deaths](https://f-franco.medium.com/covid-19-underreported-deaths-b4bac8800ddc?source=rss-42d3ce47af92------2)
 - [COVID-19 | The Measure of Hope](https://f-franco.medium.com/covid-19-the-measure-of-hope-73b2242f56c?source=rss-42d3ce47af92------2)
-- [COVID-19 | La Letalidad y Los Decesos](https://f-franco.medium.com/covid-19-la-letalidad-y-los-decesos-8bd7e9164975?source=rss-42d3ce47af92------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/> 
